@@ -1,10 +1,10 @@
-import NavegationBar from './components/NavegationBar'
+import Header from './components/Header'
 
 function App() {
 
   return (
     <>
-      <NavegationBar />
+      <Header />
     </>
   )
 }
