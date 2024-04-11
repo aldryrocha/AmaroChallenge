@@ -9,9 +9,8 @@ const CampoTextoEstilizado = styled.input`
     height: 56px;
     padding: 12px 16px;
     border-radius: 10px;
-    border: 2px solid;
-    border-color: #C98CF1;
-    background: transparent;
+    border:0;
+    background: #f1efe8;
     box-sizing: border-box;
     width: 566px;
     color: #D9D9D9;
@@ -23,8 +22,8 @@ const CampoTextoEstilizado = styled.input`
 const Search = () => {
     return (
         <ContainerEstilizado>
-            <CampoTextoEstilizado placeholder="O que você está procurando?" />
             <FaMagnifyingGlass />
+            <CampoTextoEstilizado placeholder="O que você está procurando?" />
         </ContainerEstilizado>
     )
 }
