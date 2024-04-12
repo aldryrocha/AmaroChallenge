@@ -3,7 +3,7 @@ import Logo from "./Logo"
 import Search from "./Search"
 
 const HeaderStyled = styled.header`
-    padding:60px 0;
+    padding: 60px 0;
     display: flex;
     justify-content: space-between;
 `

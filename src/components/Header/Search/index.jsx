@@ -15,14 +15,27 @@ const CampoTextoEstilizado = styled.input`
     width: 566px;
     color: #D9D9D9;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 20px;
+    padding-left:3.2rem;
+`
+
+const IconSearch = styled.div`
+    position: absolute;
+    top:15px;
+    left:15px;
+    width:30px;
+    height:30px;
+    
+    svg{
+        color:var(--color-black)
+    }
 `
 
 const Search = () => {
     return (
         <ContainerEstilizado>
-            <FaMagnifyingGlass />
+            <IconSearch><FaMagnifyingGlass size={25} /></IconSearch>
             <CampoTextoEstilizado placeholder="O que você está procurando?" />
         </ContainerEstilizado>
     )

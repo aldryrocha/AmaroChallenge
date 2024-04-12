@@ -1,6 +1,19 @@
 import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
+:root{
+    /* Breakpoints */
+    --breakpoints-mobile: 320px;
+    --breakpoints-tablet: 768px;
+    --breakpoints-computer: 992px;
+    --breakpoints-desktop: 1200px;
+    --breakpoints-widescreen: 1920px;
+  
+    /* Colors */
+    --primary-color: #f1efe8;
+    --secondary-color: #fff;
+    --color-black: #000;
+}
   html {
     line-height: 1.15; 
     -webkit-text-size-adjust: 100%;
@@ -8,8 +21,8 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     margin: 0;
+    padding: 0;
     min-height: 100vh;
-    font-family: 'Lato', sans-serif;
   }
   main {
     display: block;
