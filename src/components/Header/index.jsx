@@ -4,7 +4,7 @@ import Search from "./Search"
 import CartButton from "./CartButton"
 
 const HeaderStyled = styled.header`
-    padding: 60px 0;
+    padding:50px 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
