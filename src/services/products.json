@@ -1,17 +1,17 @@
 {
   "products": [
     {
-      "name": "VESTIDO TRANSPASSE BOW",
+      "name": "Vestido Midi Regata Jeans",
       "style": "20002605",
       "code_color": "20002605_613",
       "color_slug": "tapecaria",
       "color": "TAPEÇARIA",
       "on_sale": false,
-      "regular_price": "R$ 199,90",
-      "actual_price": "R$ 199,90",
+      "regular_price": "R$ 359,90",
+      "actual_price": "R$ 359,90",
       "discount_percentage": "",
-      "installments": "3x R$ 66,63",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002605_615_catalog_1.jpg?1460136912",
+      "installments": "10x R$ 35,90",
+      "image": "https://amaro.com/cdn/shop/files/50304837_0048_01.jpg?v=1712583066",
       "sizes": [
         {
           "available": false,
@@ -41,17 +41,17 @@
       ]
     },
     {
-      "name": "REGATA ALCINHA FOLK",
+      "name": "Regata Agata Marinho",
       "style": "20002570",
       "code_color": "20002570_614",
       "color_slug": "preto",
       "color": "PRETO",
       "on_sale": false,
-      "regular_price": "R$ 99,90",
-      "actual_price": "R$ 99,90",
+      "regular_price": "R$ 488,00",
+      "actual_price": "R$ 488,00",
       "discount_percentage": "",
-      "installments": "3x R$ 33,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002570_002_catalog_1.jpg?1459948578",
+      "installments": "3x R$ 162,66",
+      "image": "https://amaro.com/cdn/shop/files/RUPV29006981000166-SKU-44633521422490-4.jpg?v=1712687429",
       "sizes": [
         {
           "available": true,
@@ -81,17 +81,17 @@
       ]
     },
     {
-      "name": "TOP CROPPED SUEDE",
+      "name": "Top Cropped de Manga Comprida e Torção no Decote",
       "style": "20002575",
       "code_color": "20002575_035",
       "color_slug": "caramelo",
       "color": "CARAMELO",
       "on_sale": false,
-      "regular_price": "R$ 129,90",
-      "actual_price": "R$ 129,90",
+      "regular_price": "R$ 299,90",
+      "actual_price": "R$ 119,90",
       "discount_percentage": "",
-      "installments": "3x R$ 43,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002575_027_catalog_1.jpg?1459537946",
+      "installments": "3x R$ 39,96",
+      "image": "https://amaro.com/cdn/shop/files/50502283_0029_03.jpg?v=1712582634",
       "sizes": [
         {
           "available": false,
@@ -121,17 +121,17 @@
       ]
     },
     {
-      "name": "BATA DECOTE FLUID",
+      "name": "Blusa Bata Reta",
       "style": "20002581",
       "code_color": "20002581_614",
       "color_slug": "mini-folk",
       "color": "MINI FOLK",
       "on_sale": false,
-      "regular_price": "R$ 149,90",
-      "actual_price": "R$ 149,90",
+      "regular_price": "R$ 179,90",
+      "actual_price": "R$ 179,90",
       "discount_percentage": "",
-      "installments": "3x R$ 49,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002581_614_catalog_1.jpg?1459536611",
+      "installments": "3x R$ 59,96",
+      "image": "https://amaro.com/cdn/shop/files/RUPV39749469000163-SKU-AT0680-G3-1_517d6ffd-122b-4246-a207-81146c3f8f07.jpg",
       "sizes": [
         {
           "available": false,
@@ -161,16 +161,16 @@
       ]
     },
     {
-      "name": "T-SHIRT LEATHER DULL",
+      "name": "T-shirt Sparkling Eyes",
       "style": "20002602",
       "code_color": "20002602_027",
       "color_slug": "marinho",
       "color": "MARINHO",
       "on_sale": true,
-      "regular_price": "R$ 139,90",
-      "actual_price": "R$ 119,90",
-      "discount_percentage": "12%",
-      "installments": "3x R$ 39,97",
+      "regular_price": "R$ 149,90",
+      "actual_price": "R$ 149,90",
+      "discount_percentage": "",
+      "installments": "3x R$ 49,96",
       "image": "",
       "sizes": [
         {
@@ -201,17 +201,17 @@
       ]
     },
     {
-      "name": "CAMISA SUEDE SPAN",
+      "name": "Camisa Manga Curta Couro Sintético Pu",
       "style": "20002584",
       "code_color": "20002584_027",
       "color_slug": "burgundy",
       "color": "BURGUNDY",
       "on_sale": false,
-      "regular_price": "R$ 189,90",
-      "actual_price": "R$ 189,90",
-      "discount_percentage": "",
-      "installments": "3x R$ 63,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002584_035_catalog_1.jpg?1459947139",
+      "regular_price": "R$ 379,90",
+      "actual_price": "R$ 322,15",
+      "discount_percentage": "15%",
+      "installments": "3x R$ 107,38",
+      "image": "https://amaro.com/cdn/shop/products/1_777439b6-b2ba-48bd-bbe7-80ec5613d244.jpg",
       "sizes": [
         {
           "available": false,
@@ -241,17 +241,17 @@
       ]
     },
     {
-      "name": "CALÇA CLASSIC PRINT",
+      "name": "Calça Jogger Alfaiataria",
       "style": "20002634",
       "code_color": "20002634_613",
       "color_slug": "free-dots",
       "color": "FREE DOTS",
       "on_sale": false,
-      "regular_price": "R$ 159,90",
-      "actual_price": "R$ 159,90",
+      "regular_price": "R$ 359,90",
+      "actual_price": "R$ 359,90",
       "discount_percentage": "",
-      "installments": "3x R$ 53,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002634_613_catalog_1.jpg?1459548109",
+      "installments": "3x R$ 119,96",
+      "image": "https://amaro.com/cdn/shop/files/50305069_0557_01_aa5419c2-e85b-4eb0-86e9-45cf2d02cb12.jpg",
       "sizes": [
         {
           "available": true,
@@ -281,17 +281,17 @@
       ]
     },
     {
-      "name": "REGATA ALCINHA FOLK",
+      "name": "Regata Alcinha Crepe",
       "style": "20002570",
       "code_color": "20002570_612",
       "color_slug": "off-white",
       "color": "OFF WHITE",
       "on_sale": false,
-      "regular_price": "R$ 99,90",
-      "actual_price": "R$ 99,90",
+      "regular_price": "R$ 139,90",
+      "actual_price": "R$ 139,90",
       "discount_percentage": "",
-      "installments": "3x R$ 33,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002570_029_catalog_1.jpg?1459948578",
+      "installments": "3x R$ 46,63",
+      "image": "https://amaro.com/cdn/shop/products/regata-alcinha-crepe-verde-militar-02_91f74ba5-f35e-49d0-8b53-6fd0dc5d6464.jpg",
       "sizes": [
         {
           "available": true,
@@ -321,17 +321,17 @@
       ]
     },
     {
-      "name": "MACAQUINHO ALFAIATARIA PEACE",
+      "name": "Macaquinho Ombro a Ombro Babado",
       "style": "20002612",
       "code_color": "20002612_612",
       "color_slug": "floral-red",
       "color": "FLORAL RED",
       "on_sale": false,
-      "regular_price": "R$ 149,90",
-      "actual_price": "R$ 149,90",
-      "discount_percentage": "",
-      "installments": "3x R$ 49,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002612_612_catalog_1.jpg?1459531023",
+      "regular_price": "R$ 399,90",
+      "actual_price": "R$ 319,90",
+      "discount_percentage": "20%",
+      "installments": "3x R$ 106,63",
+      "image": "https://amaro.com/cdn/shop/products/1_f6cde5ca-4ef1-4269-914a-34e5af8995c4.jpg?v=1708206542",
       "sizes": [
         {
           "available": false,
@@ -361,17 +361,17 @@
       ]
     },
     {
-      "name": "BOLSA FLAP TRIANGLE",
+      "name": "Bolsa Verona em Couro Trizi",
       "style": "20002945",
       "code_color": "20002945_027",
       "color_slug": "caramelo",
       "color": "CARAMELO",
       "on_sale": true,
-      "regular_price": "R$ 199,90",
-      "actual_price": "R$ 159,90",
-      "discount_percentage": "25%",
-      "installments": "3x R$ 53,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002945_027_catalog_1.jpg?1459540966",
+      "regular_price": "R$ 690,90",
+      "actual_price": "R$ 690,90",
+      "discount_percentage": "",
+      "installments": "10x R$ 69,90",
+      "image": "https://amaro.com/cdn/shop/products/1_7a82239a-61b6-4b0f-a0e4-dc7216427d05.jpg",
       "sizes": [
         {
           "available": true,
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "name": "VESTIDO LONGO FLOAT",
+      "name": "Vestido Longo Decote com Pala e Alças",
       "style": "20002606",
       "code_color": "20002606_612",
       "color_slug": "tapecaria",
@@ -391,7 +391,7 @@
       "actual_price": "R$ 219,90",
       "discount_percentage": "",
       "installments": "3x R$ 73,30",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002606_615_catalog_1.jpg?1459515279",
+      "image": "https://amaro.com/cdn/shop/files/50401010_0002_01.jpg?v=1712582490",
       "sizes": [
         {
           "available": true,
@@ -421,17 +421,17 @@
       ]
     },
     {
-      "name": "BATA DECOTE FLUID",
+      "name": "Bata Sereia",
       "style": "20002581",
       "code_color": "20002581_612",
       "color_slug": "bohemian-preto",
       "color": "BOHEMIAN PRETO",
       "on_sale": false,
-      "regular_price": "R$ 149,90",
-      "actual_price": "R$ 149,90",
+      "regular_price": "R$ 298,90",
+      "actual_price": "R$ 298,90",
       "discount_percentage": "",
-      "installments": "3x R$ 49,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002581_611_catalog_1.jpg?1459536611",
+      "installments": "3x R$ Bata Sereia",
+      "image": "https://amaro.com/cdn/shop/products/1_6a2a7ce2-60ba-4f98-84fc-a22937195576.jpg",
       "sizes": [
         {
           "available": false,
@@ -461,17 +461,17 @@
       ]
     },
     {
-      "name": "VESTIDO FRANZIDO RECORTES",
+      "name": "VESTIDO FRANZIDO",
       "style": "20001609",
       "code_color": "20001609_029",
       "color_slug": "preto",
       "color": "PRETO",
       "on_sale": true,
-      "regular_price": "R$ 139,90",
-      "actual_price": "R$ 69,90",
-      "discount_percentage": "50%",
-      "installments": "2x R$ 34,95",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001609_002_catalog_1.jpg?",
+      "regular_price": "R$ 479,90",
+      "actual_price": "R$ 179,90",
+      "discount_percentage": "58%",
+      "installments": "2x R$ 66,63",
+      "image": "https://amaro.com/cdn/shop/files/RUPV11732647000124-SKU-25223-104-6_9cc7920f-12d5-4f1f-9a27-2a2fe5a9b964.jpg",
       "sizes": [
         {
           "available": true,
@@ -501,17 +501,17 @@
       ]
     },
     {
-      "name": "CALÇA COMFORT TASSEL",
+      "name": "Calça Wide Alfaiataria com Pregas",
       "style": "20001786",
       "code_color": "20001786_594",
       "color_slug": "paisley-gipsy-azul",
       "color": "PAISLEY GIPSY AZUL",
       "on_sale": true,
-      "regular_price": "R$ 139,90",
-      "actual_price": "R$ 84,90",
-      "discount_percentage": "39%",
-      "installments": "2x R$ 42,45",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001786_594_catalog_1.jpg?1449159646",
+      "regular_price": "R$ 299,90",
+      "actual_price": "R$ 239,90",
+      "discount_percentage": "20%",
+      "installments": "2x R$ 79,96",
+      "image": "https://amaro.com/cdn/shop/files/50304852_0927_01.jpg?v=1712583588",
       "sizes": [
         {
           "available": true,
@@ -541,17 +541,17 @@
       ]
     },
     {
-      "name": "SAIA DENIM BOTÕES",
+      "name": "Saia Curta Alfaiataria Barra Arredondada",
       "style": "20001695",
       "code_color": "20001695_063",
       "color_slug": "indigo-escuro",
       "color": "INDIGO ESCURO",
       "on_sale": true,
-      "regular_price": "R$ 139,90",
-      "actual_price": "R$ 69,90",
-      "discount_percentage": "50%",
-      "installments": "2x R$ 34,95",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001695_063_catalog_1.jpg?",
+      "regular_price": "R$ 259,90",
+      "actual_price": "R$ 159,90",
+      "discount_percentage": "38%",
+      "installments": "3x R$ 53,30",
+      "image": "https://amaro.com/cdn/shop/files/50304685_0002_01.jpg?v=1712583032",
       "sizes": [
         {
           "available": false,
@@ -581,17 +581,17 @@
       ]
     },
     {
-      "name": "BLUSA LAÇO ISTAMBUL",
+      "name": "Regata Curta Decote V",
       "style": "20002600",
       "code_color": "20002600_293",
       "color_slug": "laranja-queimado",
       "color": "LARANJA QUEIMADO",
       "on_sale": false,
-      "regular_price": "R$ 149,90",
-      "actual_price": "R$ 149,90",
+      "regular_price": "R$ 139,90",
+      "actual_price": "R$ 139,90",
       "discount_percentage": "",
-      "installments": "3x R$ 49,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002600_293_catalog_1.jpg?1460416037",
+      "installments": "3x R$ 39,97",
+      "image": "https://amaro.com/cdn/shop/files/51106927_0013_01.jpg?v=1712583057",
       "sizes": [
         {
           "available": true,
@@ -621,17 +621,17 @@
       ]
     },
     {
-      "name": "BLUSA RIB STRIPES",
+      "name": "Top Calêndula",
       "style": "20002829",
       "code_color": "20002829_006",
       "color_slug": "bege",
       "color": "BEGE",
       "on_sale": false,
-      "regular_price": "R$ 149,90",
-      "actual_price": "R$ 149,90",
+      "regular_price": "R$ 346,00",
+      "actual_price": "R$ 346,00",
       "discount_percentage": "",
-      "installments": "3x R$ 49,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002829_006_catalog_1.jpg?1459550820",
+      "installments": "3x R$ 115,33",
+      "image": "https://amaro.com/cdn/shop/files/01_6.jpg?v=1706886123",
       "sizes": [
         {
           "available": false,
@@ -661,17 +661,17 @@
       ]
     },
     {
-      "name": "CASACO WHITE FUR",
+      "name": "Trench Coat Super Midi com Botões",
       "style": "20002648",
       "code_color": "20002648_029",
       "color_slug": "off-white",
       "color": "OFF-WHITE",
       "on_sale": false,
-      "regular_price": "R$ 239,90",
-      "actual_price": "R$ 239,90",
+      "regular_price": "R$ 3.583,00",
+      "actual_price": "R$ 3.583,00",
       "discount_percentage": "",
-      "installments": "3x R$ 79,97",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20002648_029_catalog_1.jpg?1459552552",
+      "installments": "10x R$ 358,30",
+      "image": "https://amaro.com/cdn/shop/products/1_a9418f68-43d5-4d4e-977b-d9be80abbcad.jpg?v=1705683592",
       "sizes": [
         {
           "available": false,
@@ -701,17 +701,17 @@
       ]
     },
     {
-      "name": "VESTIDO CURTO FESTIVAL",
+      "name": "Vestido Curto Alfaiataria Decote Profundo",
       "style": "20001684",
       "code_color": "20001684_587",
       "color_slug": "floral-vintage-vermelho",
       "color": "FLORAL VINTAGE VERMELHO",
       "on_sale": true,
-      "regular_price": "R$ 129,90",
-      "actual_price": "R$ 59,90",
-      "discount_percentage": "54%",
-      "installments": "1x R$ 59,90",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001684_585_catalog_1.jpg?",
+      "regular_price": "R$ 339,90",
+      "actual_price": "R$ 339,90",
+      "discount_percentage": "",
+      "installments": "10x R$ 33,99",
+      "image": "https://amaro.com/cdn/shop/files/50304745_0016_01.jpg?v=1712583105",
       "sizes": [
         {
           "available": false,
@@ -741,17 +741,17 @@
       ]
     },
     {
-      "name": "ÓCULOS DE SOL BOLD",
+      "name": "Óculos de Sol Che Figo!",
       "style": "20001882",
       "code_color": "20001882_008",
       "color_slug": "marrom",
       "color": "MARRROM",
       "on_sale": true,
-      "regular_price": "R$ 109,90",
-      "actual_price": "R$ 49,90",
-      "discount_percentage": "55%",
-      "installments": "1x R$ 49,90",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001882_008_catalog_1.jpg?",
+      "regular_price": "R$ 544,00",
+      "actual_price": "R$ 544,00",
+      "discount_percentage": "",
+      "installments": "10x R$ 54,40",
+      "image": "https://amaro.com/cdn/shop/products/4_8dcfef6f-83fd-4e42-83c1-70f1c057b05e.jpg?v=1705585295",
       "sizes": [
         {
           "available": true,
@@ -761,17 +761,17 @@
       ]
     },
     {
-      "name": "ÓCULOS DE SOL AVIADOR VINTAGE",
+      "name": "Óculos de Sol Monaco",
       "style": "20001883",
       "code_color": "20001883_019",
       "color_slug": "cinza",
       "color": "CINZA",
       "on_sale": true,
-      "regular_price": "R$ 109,90",
-      "actual_price": "R$ 49,90",
-      "discount_percentage": "55%",
-      "installments": "1x R$ 49,90",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001883_019_catalog_1.jpg?",
+      "regular_price": "R$ 599,00",
+      "actual_price": "R$ 599,00",
+      "discount_percentage": "",
+      "installments": "10x R$ 59,90",
+      "image": "https://amaro.com/cdn/shop/products/3_c7ecc359-768d-4caa-8e28-eea98a70661a.jpg?v=1712237903&width=540",
       "sizes": [
         {
           "available": true,
@@ -781,17 +781,17 @@
       ]
     },
     {
-      "name": "PULSEIRA STYLISH",
+      "name": "Pulseira Elos",
       "style": "20001913",
       "code_color": "20001913_009",
       "color_slug": "dourado",
       "color": "dourado",
       "on_sale": false,
-      "regular_price": "R$ 29,90",
-      "actual_price": "R$ 29,90",
+      "regular_price": "R$ 1.090,000",
+      "actual_price": "R$ 1.090,00",
       "discount_percentage": "",
-      "installments": "1x R$ 29,90",
-      "image": "https://d3l7rqep7l31az.cloudfront.net/images/products/20001913_009_catalog_1.jpg?",
+      "installments": "10x R$ 109,90",
+      "image": "https://amaro.com/cdn/shop/products/2_d0033242-205b-4e34-92fa-4a7c46a3ae7e.jpg?v=1705636691&width=540",
       "sizes": [
         {
           "available": true,
