@@ -11,7 +11,7 @@
       "actual_price": "R$ 359,90",
       "discount_percentage": "",
       "installments": "10x R$ 35,90",
-      "image": "https://amaro.com/cdn/shop/files/50304837_0048_01.jpg?v=1712583066",
+      "image": "https://amaro.com/cdn/shop/files/50304837_0048_01.jpg",
       "sizes": [
         {
           "available": false,
@@ -51,7 +51,7 @@
       "actual_price": "R$ 488,00",
       "discount_percentage": "",
       "installments": "3x R$ 162,66",
-      "image": "https://amaro.com/cdn/shop/files/RUPV29006981000166-SKU-44633521422490-4.jpg?v=1712687429",
+      "image": "https://amaro.com/cdn/shop/files/RUPV29006981000166-SKU-44633521422490-4.jpg",
       "sizes": [
         {
           "available": true,
@@ -91,7 +91,7 @@
       "actual_price": "R$ 119,90",
       "discount_percentage": "",
       "installments": "3x R$ 39,96",
-      "image": "https://amaro.com/cdn/shop/files/50502283_0029_03.jpg?v=1712582634",
+      "image": "https://amaro.com/cdn/shop/files/50502283_0029_03.jpg",
       "sizes": [
         {
           "available": false,
@@ -171,7 +171,7 @@
       "actual_price": "R$ 149,90",
       "discount_percentage": "",
       "installments": "3x R$ 49,96",
-      "image": "",
+      "image": "https://amaro.com/cdn/shop/products/1_2b1457df-8add-464c-93f2-7281930d59f8.jpg",
       "sizes": [
         {
           "available": true,
@@ -331,7 +331,7 @@
       "actual_price": "R$ 319,90",
       "discount_percentage": "20%",
       "installments": "3x R$ 106,63",
-      "image": "https://amaro.com/cdn/shop/products/1_f6cde5ca-4ef1-4269-914a-34e5af8995c4.jpg?v=1708206542",
+      "image": "https://amaro.com/cdn/shop/products/1_f6cde5ca-4ef1-4269-914a-34e5af8995c4.jpg",
       "sizes": [
         {
           "available": false,
@@ -391,7 +391,7 @@
       "actual_price": "R$ 219,90",
       "discount_percentage": "",
       "installments": "3x R$ 73,30",
-      "image": "https://amaro.com/cdn/shop/files/50401010_0002_01.jpg?v=1712582490",
+      "image": "https://amaro.com/cdn/shop/files/50401010_0002_01.jpg",
       "sizes": [
         {
           "available": true,
@@ -511,7 +511,7 @@
       "actual_price": "R$ 239,90",
       "discount_percentage": "20%",
       "installments": "2x R$ 79,96",
-      "image": "https://amaro.com/cdn/shop/files/50304852_0927_01.jpg?v=1712583588",
+      "image": "https://amaro.com/cdn/shop/files/50304852_0927_01.jpg",
       "sizes": [
         {
           "available": true,
@@ -551,7 +551,7 @@
       "actual_price": "R$ 159,90",
       "discount_percentage": "38%",
       "installments": "3x R$ 53,30",
-      "image": "https://amaro.com/cdn/shop/files/50304685_0002_01.jpg?v=1712583032",
+      "image": "https://amaro.com/cdn/shop/files/50304685_0002_01.jpg",
       "sizes": [
         {
           "available": false,
@@ -591,7 +591,7 @@
       "actual_price": "R$ 139,90",
       "discount_percentage": "",
       "installments": "3x R$ 39,97",
-      "image": "https://amaro.com/cdn/shop/files/51106927_0013_01.jpg?v=1712583057",
+      "image": "https://amaro.com/cdn/shop/files/51106927_0013_01.jpg",
       "sizes": [
         {
           "available": true,
@@ -631,7 +631,7 @@
       "actual_price": "R$ 346,00",
       "discount_percentage": "",
       "installments": "3x R$ 115,33",
-      "image": "https://amaro.com/cdn/shop/files/01_6.jpg?v=1706886123",
+      "image": "https://amaro.com/cdn/shop/files/01_6.jpg",
       "sizes": [
         {
           "available": false,
@@ -671,7 +671,7 @@
       "actual_price": "R$ 3.583,00",
       "discount_percentage": "",
       "installments": "10x R$ 358,30",
-      "image": "https://amaro.com/cdn/shop/products/1_a9418f68-43d5-4d4e-977b-d9be80abbcad.jpg?v=1705683592",
+      "image": "https://amaro.com/cdn/shop/products/1_a9418f68-43d5-4d4e-977b-d9be80abbcad.jpg",
       "sizes": [
         {
           "available": false,
@@ -711,7 +711,7 @@
       "actual_price": "R$ 339,90",
       "discount_percentage": "",
       "installments": "10x R$ 33,99",
-      "image": "https://amaro.com/cdn/shop/files/50304745_0016_01.jpg?v=1712583105",
+      "image": "https://amaro.com/cdn/shop/files/50304745_0016_01.jpg",
       "sizes": [
         {
           "available": false,
@@ -751,7 +751,7 @@
       "actual_price": "R$ 544,00",
       "discount_percentage": "",
       "installments": "10x R$ 54,40",
-      "image": "https://amaro.com/cdn/shop/products/4_8dcfef6f-83fd-4e42-83c1-70f1c057b05e.jpg?v=1705585295",
+      "image": "https://amaro.com/cdn/shop/products/4_8dcfef6f-83fd-4e42-83c1-70f1c057b05e.jpg",
       "sizes": [
         {
           "available": true,
@@ -771,7 +771,7 @@
       "actual_price": "R$ 599,00",
       "discount_percentage": "",
       "installments": "10x R$ 59,90",
-      "image": "https://amaro.com/cdn/shop/products/3_c7ecc359-768d-4caa-8e28-eea98a70661a.jpg?v=1712237903&width=540",
+      "image": "https://amaro.com/cdn/shop/products/3_c7ecc359-768d-4caa-8e28-eea98a70661a.jpg",
       "sizes": [
         {
           "available": true,
@@ -791,7 +791,7 @@
       "actual_price": "R$ 1.090,00",
       "discount_percentage": "",
       "installments": "10x R$ 109,90",
-      "image": "https://amaro.com/cdn/shop/products/2_d0033242-205b-4e34-92fa-4a7c46a3ae7e.jpg?v=1705636691&width=540",
+      "image": "https://amaro.com/cdn/shop/products/2_d0033242-205b-4e34-92fa-4a7c46a3ae7e.jpg",
       "sizes": [
         {
           "available": true,
