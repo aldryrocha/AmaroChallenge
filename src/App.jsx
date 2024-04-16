@@ -23,9 +23,7 @@ function App() {
     <>
       <GlobalStyle />
       <Header />
-        {products?.map(product => {
-          return <Product name={product.name} product={product} /> 
-        })}
+      <Products products={products} />
     </>
   )
 }

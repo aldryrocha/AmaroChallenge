@@ -3,9 +3,11 @@ import Product from "./Product"
 
 const Products = ({products}) => {
     return(
-        <>
-            {products.map(product => <Product product={product} /> )}
-        </>
+        <ul>
+            {products?.map((product, index) => {
+                return <li key={index}><Product product={product} /></li>
+            })}
+        </ul>
     )
 }
 
