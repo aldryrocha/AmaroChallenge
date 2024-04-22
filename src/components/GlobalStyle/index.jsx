@@ -28,7 +28,7 @@ const GlobalStyle = createGlobalStyle`
     display: block;
   }
   h1 {
-    font-size: 2em;
+    font-size: 1.4em;
     margin: 0.67em 0;
   }
   hr {
