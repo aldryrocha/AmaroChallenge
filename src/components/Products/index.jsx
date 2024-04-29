@@ -1,13 +1,25 @@
 import {styled} from "styled-components"
+import { useId } from 'react'
 import Product from "./Product"
 
-const Products = ({products}) => {
+const ProductsSection = styled.section`
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;    
+`
+
+const Products = ({products}) => {    
     return(
-        <ul>
-            {products?.map((product, index) => {
-                return <li key={index}><Product product={product} /></li>
+        <ProductsSection>
+            {products?.map((product) => {     
+                let productid = useId()    
+                return <Product key={productid} productId={productid} product={product} />                
             })}
-        </ul>
+        </ProductsSection>
     )
 }
 
