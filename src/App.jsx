@@ -2,8 +2,6 @@ import { useEffect, useState } from 'react'
 import GlobalStyle from './components/GlobalStyle'
 import Header from './components/Header'
 import Products from './components/Products'
-import axios from 'axios'
-import Product from './components/Products/Product'
 import Api from './services/api'
 
 function App() {
