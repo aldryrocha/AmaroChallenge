@@ -13,6 +13,8 @@ const GlobalStyle = createGlobalStyle`
     --primary-color: #f1efe8;
     --secondary-color: #fff;
     --color-black: #000;
+
+    --border-radius: 10px;
 }
   html {
     line-height: 1.15; 
