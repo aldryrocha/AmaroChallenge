@@ -1,5 +1,4 @@
-import {styled} from "styled-components"
-import { useId } from 'react'
+import { styled } from "styled-components"
 
 const CardProduct = styled.article`
     display: flex;
@@ -90,21 +89,18 @@ const OldPrice = styled.p`
     padding-left: 0.5rem;
 `
 
-const Product = ({productid, product}) => {
-    const adicionarProduto = () => {
-        console.log('entering' + productid)
-    }
-    return(
-        <CardProduct productId={productid}>
+const Product = ({product, addProduct}) => {
+    return(        
+        <CardProduct className={`product-${product.id}`}>
             <ImageWrapper>
-                {/*<img src={`${product.image}?&width=540`} />*/}
                 <img src={product.image} />
                 {product.discount_percentage && <Discount>{product.discount_percentage}</Discount>}
                 <InfoSizes>
                     <Title>Escolha um Tamanho: </Title>
                     {product.sizes.map((itemSize) => {
                         if(itemSize.available){
-                            return <Size key={useId()} onClick={() => adicionarProduto({productid, product}) }>{itemSize.size}</Size>
+                            const productSku = itemSize.sku
+                            return <Size key={productSku} onClick={() => addProduct({productSku, product}) }>{itemSize.size}</Size>
                         }
                     })}
                 </InfoSizes>

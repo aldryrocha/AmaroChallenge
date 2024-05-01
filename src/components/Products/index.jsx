@@ -1,6 +1,6 @@
 import {styled} from "styled-components"
-import { useId } from 'react'
 import Product from "./Product"
+import { useCartContext } from "@/hooks/useCartContext"
 
 const ProductsSection = styled.section`
     margin: 0 auto;
@@ -13,11 +13,12 @@ const ProductsSection = styled.section`
 `
 
 const Products = ({products}) => {    
+    const { addProduct } = useCartContext()
+
     return(
         <ProductsSection>
-            {products?.map((product) => {     
-                let productid = useId()    
-                return <Product key={productid} productId={productid} product={product} />                
+            {products?.map((product) => {
+                return <Product key={crypto.randomUUID()} product={product} addProduct={addProduct} />
             })}
         </ProductsSection>
     )

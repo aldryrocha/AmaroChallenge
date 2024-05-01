@@ -3,6 +3,7 @@ import GlobalStyle from './components/GlobalStyle'
 import Header from './components/Header'
 import Products from './components/Products'
 import Api from './services/api'
+import { CartProvider } from "./context/CartContext"
 
 function App() {
   const [products, setProducts] = useState([])
@@ -19,9 +20,11 @@ function App() {
 
   return (
     <>
+    <CartProvider>
       <GlobalStyle />
       <Header />
       <Products products={products} />
+      </CartProvider>
     </>
   )
 }
