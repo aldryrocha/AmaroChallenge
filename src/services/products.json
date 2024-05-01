@@ -1,6 +1,7 @@
 {
   "products": [
     {
+      "id": "p01",
       "name": "Vestido Midi Regata Jeans",
       "style": "20002605",
       "code_color": "20002605_613",
@@ -41,6 +42,7 @@
       ]
     },
     {
+      "id": "p02",
       "name": "Regata Agata Marinho",
       "style": "20002570",
       "code_color": "20002570_614",
@@ -81,6 +83,7 @@
       ]
     },
     {
+      "id": "p03",
       "name": "Top Cropped de Manga Comprida e Torção no Decote",
       "style": "20002575",
       "code_color": "20002575_035",
@@ -121,6 +124,7 @@
       ]
     },
     {
+      "id": "p04",
       "name": "Blusa Bata Reta",
       "style": "20002581",
       "code_color": "20002581_614",
@@ -161,6 +165,7 @@
       ]
     },
     {
+      "id": "p05",
       "name": "T-shirt Sparkling Eyes",
       "style": "20002602",
       "code_color": "20002602_027",
@@ -201,6 +206,7 @@
       ]
     },
     {
+      "id": "p06",
       "name": "Camisa Manga Curta Couro Sintético",
       "style": "20002584",
       "code_color": "20002584_027",
@@ -241,6 +247,7 @@
       ]
     },
     {
+      "id": "p07",
       "name": "Calça Jogger Alfaiataria",
       "style": "20002634",
       "code_color": "20002634_613",
@@ -281,6 +288,7 @@
       ]
     },
     {
+      "id": "p08",
       "name": "Regata Alcinha Crepe",
       "style": "20002570",
       "code_color": "20002570_612",
@@ -321,6 +329,7 @@
       ]
     },
     {
+      "id": "p09",
       "name": "Macaquinho Ombro a Ombro Babado",
       "style": "20002612",
       "code_color": "20002612_612",
@@ -361,6 +370,7 @@
       ]
     },
     {
+      "id": "p10",
       "name": "Bolsa Verona em Couro Trizi",
       "style": "20002945",
       "code_color": "20002945_027",
@@ -381,6 +391,7 @@
       ]
     },
     {
+      "id": "p11",
       "name": "Vestido Longo Decote com Pala e Alças",
       "style": "20002606",
       "code_color": "20002606_612",
@@ -421,6 +432,7 @@
       ]
     },
     {
+      "id": "p12",
       "name": "Bata Sereia",
       "style": "20002581",
       "code_color": "20002581_612",
@@ -461,6 +473,7 @@
       ]
     },
     {
+      "id": "p13",
       "name": "VESTIDO FRANZIDO",
       "style": "20001609",
       "code_color": "20001609_029",
@@ -501,6 +514,7 @@
       ]
     },
     {
+      "id": "p14",
       "name": "Calça Wide Alfaiataria com Pregas",
       "style": "20001786",
       "code_color": "20001786_594",
@@ -541,6 +555,7 @@
       ]
     },
     {
+      "id": "p15",
       "name": "Saia Curta Alfaiataria Barra Arredondada",
       "style": "20001695",
       "code_color": "20001695_063",
@@ -581,6 +596,7 @@
       ]
     },
     {
+      "id": "p16",
       "name": "Regata Curta Decote V",
       "style": "20002600",
       "code_color": "20002600_293",
@@ -621,6 +637,7 @@
       ]
     },
     {
+      "id": "p17",
       "name": "Top Calêndula",
       "style": "20002829",
       "code_color": "20002829_006",
@@ -661,6 +678,7 @@
       ]
     },
     {
+      "id": "p18",
       "name": "Trench Coat Super Midi com Botões",
       "style": "20002648",
       "code_color": "20002648_029",
@@ -701,6 +719,7 @@
       ]
     },
     {
+      "id": "p19",
       "name": "Vestido Curto Alfaiataria Decote Profundo",
       "style": "20001684",
       "code_color": "20001684_587",
@@ -741,6 +760,7 @@
       ]
     },
     {
+      "id": "p20",
       "name": "Óculos de Sol Che Figo!",
       "style": "20001882",
       "code_color": "20001882_008",
@@ -761,6 +781,7 @@
       ]
     },
     {
+      "id": "p21",
       "name": "Óculos de Sol Monaco",
       "style": "20001883",
       "code_color": "20001883_019",
@@ -781,6 +802,7 @@
       ]
     },
     {
+      "id": "p22",
       "name": "Pulseira Elos",
       "style": "20001913",
       "code_color": "20001913_009",
