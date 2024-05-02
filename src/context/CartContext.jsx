@@ -1,5 +1,7 @@
 import { createContext, useEffect, useMemo, useReducer, useState } from "react"
 import { cartReducer } from "../reducers/cartReducer"
+import { numberFormatter } from "@/utils/numberFormatter"
+import { coinFormatter } from "@/utils/coinFormatter"
 
 export const CartContext = createContext()
 CartContext.displayName = 'Cart'
@@ -15,7 +17,7 @@ export const CartProvider = ({children}) => {
         return cart.reduce(
             (acumulador, product) => ({
                 amountTemp: acumulador.amountTemp + product.amount,
-                totalTemp: acumulador.totalTemp + parseInt(product.product.actual_price) * product.amount
+                totalTemp: acumulador.totalTemp + numberFormatter(product.product.actual_price) * product.amount
             }),
             {
                 amountTemp: 0,
@@ -26,7 +28,7 @@ export const CartProvider = ({children}) => {
 
     useEffect(() => {    
         setAmount(amountTemp)
-        setTotalValue(totalTemp)      
+        setTotalValue(coinFormatter(totalTemp))
     })
 
     return (
