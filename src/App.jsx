@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Products from './components/Products'
 import Api from './services/api'
 import { CartProvider } from "./context/CartContext"
+import Cart from './components/Cart'
 
 function App() {
   const [products, setProducts] = useState([])
@@ -23,6 +24,7 @@ function App() {
     <CartProvider>
       <GlobalStyle />
       <Header />
+      <Cart/>
       <Products products={products} />
       </CartProvider>
     </>
