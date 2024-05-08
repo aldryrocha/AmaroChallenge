@@ -1,26 +1,30 @@
-.cart__item{
+import styled from "styled-components"
+
+export const CartItem = styled.li`
     padding: 15px 0;
     border: 2px solid var(--color-gray);    
     margin-bottom: 1rem;
     width: 100%;
     display: inline-flex;
-}
-.imagem__produto{
-    width: 120px;
-}
-.cart__item__content{
+`;
+
+export const CartItemContent = styled.div`
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
     align-items: center;
     padding-right: 0;
     width: calc(100% - 120px);
-}
-.cart__item__contentInner{
-    width: calc(100% - 95px);
+`
+
+export const CartItemContentInner = styled.div`
+    width: calc(100% - 120px);
     flex-flow: row wrap;
     align-items: center;
-}
-.cart__item__contentInfos{
-    width: 95px;
-}
+`
+export const CartItemContentInfos = styled.div`
+    width: 120px;
+`
+export const CartItemImg = styled.img`
+    width: 125px;
+`
