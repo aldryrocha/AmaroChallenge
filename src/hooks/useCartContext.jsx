@@ -2,19 +2,19 @@ import { useContext } from "react"
 import { CartContext } from "@/context/CartContext"
 import { ADD_PRODUCT, REMOVE_PRODUCT, UPDATE_AMOUNT } from "@/reducers/cartReducer"
 
-const addProductAction = (newProductSku, newProduct) => ({
+const addProductAction = (newProductSku) => ({
   type: ADD_PRODUCT,
-  payload: { newProductSku, newProduct }
+  payload: { newProductSku }
 })
 
 const removeProductAction = (productId) => ({
   type: REMOVE_PRODUCT,
-  payload: productId
+  payload: productId  
 })
 
 const updateAmountAction = (productId, amount) => ({
   type: UPDATE_AMOUNT,
-  payload: { productId, amount},
+  payload: { productId, amount}
 })
 
 export const useCartContext = () => {
@@ -22,15 +22,16 @@ export const useCartContext = () => {
     cart,
     dispatch, 
     amount,
+    totalAmount,
     totalValue
   } = useContext(CartContext)
 
-  function addProduct(newProductSku, newProduct){
-    dispatch(addProductAction(newProductSku, newProduct))
+  function addProduct(newProductSku){
+    dispatch(addProductAction(newProductSku))
   }
 
   function removingProduct(id) {
-    const product = cart.find((item) => item.id === id)
+    const product = cart.find((item) => item.productSku === id)
 
     if (product && product.amount > 1) {
       dispatch(updateAmountAction(id, product.amount - 1))
@@ -49,6 +50,7 @@ export const useCartContext = () => {
     removingProduct,
     removingProductCart,
     totalValue,
+    totalAmount,
     amount
   }
 }
