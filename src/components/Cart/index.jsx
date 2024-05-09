@@ -14,7 +14,7 @@ const ListProducts = styled.ul`
     margin: 0 auto;
 `
 
-const Cart = () => {
+const CartSession = () => {
   const {cart, totalValue} = useCartContext()
 
   return (
@@ -33,4 +33,4 @@ const Cart = () => {
   )
 }
 
-export default Cart
+export default CartSession

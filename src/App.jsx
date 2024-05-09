@@ -1,33 +1,20 @@
-import { useEffect, useState } from 'react'
-import GlobalStyle from './components/GlobalStyle'
-import Header from './components/Header'
-import Products from './components/Products'
-import Api from './services/api'
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { CartProvider } from "./context/CartContext"
-import Cart from './components/Cart'
+import Cart from './pages/Cart'
+import Home from "./pages/Home"
+import Page404 from "./pages/Page404"
 
 function App() {
-  const [products, setProducts] = useState([])
-
-  const getProducts = () => {
-    Api.get('/products').then((response) => {
-      setProducts(response.data)
-    })
-  }
-
-  useEffect(() => {
-    getProducts()
-  }, [])
-
   return (
-    <>
-    <CartProvider>
-      <GlobalStyle />
-      <Header />
-      <Cart/>
-      <Products products={products} />
+    <BrowserRouter>
+      <CartProvider>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/cart" element={<Cart />} />
+            <Route path="*" element={<Page404 />} />
+          </Routes>
       </CartProvider>
-    </>
+    </BrowserRouter>
   )
 }
 
